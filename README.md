@@ -1,4 +1,4 @@
-Chocolate Sales Dashboard – Power BI
+## Chocolate Sales Dashboard – Power BI
 This project presents an interactive Chocolate Sales Analysis Dashboard built using Power BI to analyze sales performance across different countries, products, and salespersons.
 📊 Project Overview
 Developed an end-to-end Power BI dashboard to monitor sales performance and shipment trends.
